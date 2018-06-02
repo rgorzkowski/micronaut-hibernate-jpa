@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: pl.stepwise.micronaut.hibernate.demo
+---
+testFramework: spock
+sourceLanguage: java
